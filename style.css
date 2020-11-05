@@ -1,8 +1,54 @@
 .container-header{
     width: 100%;
+<<<<<<< HEAD
     height: 200px;
     background-color: rgb(168, 86, 86);
 }
 iframe{
     margin: 20px;
+=======
+    height: 150px;
+    background-color: gray;
+}
+
+iframe{
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+.publicidad{
+    background-color: rgb(230, 220, 132);
+    margin-top: 200px;
+}
+
+.publicidad h3{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 35px;
+    color: #025157; 
+    margin-bottom: 0%;   
+
+}
+
+.publicidad p{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 14px;
+    color: #343434;
+    margin-top: 0%;
+}
+
+.publicidad > form{
+    display: flex;
+}
+
+.publicidad > form p{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #025157;
+    font-size: 17px;
+    margin-right: 17px;
+}
+
+.publicidad button{
+    background-color: #025157;
+    color: white;
+>>>>>>> a72431b99ed8ca1c078ed6923d0a529d1d922638
 }
