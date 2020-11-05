@@ -3,18 +3,6 @@
     height: 200px;
     background-color: rgb(168, 86, 86);
 }
-
-.container-section-promo{
-    display: flex;
-    width: 70%;
-    margin: 100px auto;
-    align-items: center;
-
-
-}
-
-.item-article{
-    width: 30%;
-    height: 100px;
-    background-color: aqua;
+iframe{
+    margin: 20px;
 }
